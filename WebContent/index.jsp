@@ -6,6 +6,7 @@
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
 <h1>Jenkins Team Project</h1>
+    <h2> Thabo </h1>
 </head>
 <body>
 
